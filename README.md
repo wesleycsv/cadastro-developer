@@ -13,6 +13,6 @@ Interface web construida construida para fins estudantis utilizando os conhecime
 * STYLED-COMPONENTS
   
 ### CONSULTA DE API
-* OMDb API: https://www.omdbapi.com/
+*   link da API: [https://www.omdbapi.com/](https://github.com/wesleycsv/api-cadastro-developer)https://github.com/wesleycsv/api-cadastro-developer
 
 
