@@ -17,6 +17,6 @@ Executa o aplicativo no modo de desenvolvimento
 Abrir [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.
   
 ### CONSULTA DE API
-*   link da API: [consulta de api](https://github.com/wesleycsv/api-cadastro-developer)
+*   link da API: [ap-cadastro-developer](https://github.com/wesleycsv/api-cadastro-developer)
 
 
